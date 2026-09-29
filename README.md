@@ -1,4 +1,4 @@
-# Content Publisher
+# ContentPoster
 
 Internal content distribution service designed to automate video posting to authorized social media platforms, including TikTok, YouTube Shorts, and Instagram Reels.
 
